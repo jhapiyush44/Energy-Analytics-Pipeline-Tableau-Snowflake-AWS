@@ -89,7 +89,7 @@ Due to these enterprise-level integrations, the dashboard **cannot be made publi
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](Screenshots/Dashboard_Overview.png)
+![Dashboard Preview](Screenshots/Dashboard-Overview.png)
 
 ---
 
